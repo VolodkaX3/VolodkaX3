@@ -56,7 +56,7 @@ Full-Stack developer and hardware engineer from Kyiv, Ukraine. Focused on buildi
 
 ---
 
-### Key Projects
+### Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
