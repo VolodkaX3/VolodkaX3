@@ -65,3 +65,7 @@ Full-Stack developer and hardware engineer from Kyiv, Ukraine. Focused on buildi
 | **Mini Utilities** | Scripts, chatbots, mini-apps, and web components. | `JS`, `Python`, `HTML/CSS` |
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VolodkaX3/VolodkaX3/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
