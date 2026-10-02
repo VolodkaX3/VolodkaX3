@@ -61,6 +61,7 @@ Full-Stack developer and hardware engineer from Kyiv, Ukraine. Focused on buildi
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **CaptureAI** | CaptureAI is a desktop AI tool launched by hotkey. It captures your screen and instantly solves problems via Gemini API, providing quick context analysis without distracting from work. | `JavaScript`, `Electron.js`, `Node.js`, `API` |
+| **CustomSoftwareRenderer** | A lightweight software renderer written from scratch in C++ using SDL2. Designed to provide an understanding of the graphics pipeline, rasterization, and low-level pixel manipulation without relying on hardware acceleration. | `C++`, `SDL2`, `CMake`, `Computer Graphics` |
 | **Microcontroller Tools** | Utilities and firmware for hardware integration. | `C++`, `Python`, `ESP/Arduino` |
 | **Mini Utilities** | Scripts, chatbots, mini-apps, and web components. | `JS`, `Python`, `HTML/CSS` |
 
